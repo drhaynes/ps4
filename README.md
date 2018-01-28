@@ -1,7 +1,7 @@
 rustyclaw
 --------
 
-A fork of [ironclaw](https://github.com/cs4414/ps4), which itself was a fork of [rustboot]((https://github.com/pczarn/rustboot)) focusing on ARM functionality and aiming to extend it into a more fully functional kernel. Setup instructions below cribbed also from [rustboot](https://github.com/pczarn/rustboot).
+A fork of [ironkernel](https://github.com/cs4414/ps4), which itself was a fork of [rustboot]((https://github.com/pczarn/rustboot)) focusing on ARM functionality and aiming to extend it into a more fully functional kernel. Setup instructions below cribbed also from [rustboot](https://github.com/pczarn/rustboot).
 
 ## Setup
 
